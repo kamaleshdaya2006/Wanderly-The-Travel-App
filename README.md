@@ -82,4 +82,7 @@ Wanderly_static/signin.html
 /hiddengems → Hidden spots
 /reviews → User reviews
 /souvenirs → Shopping items
-/trips → Trip planni
+/trips → Trip planning
+
+The Website is also publicly hosted :
+Link for the website : https://wanderly-project.vercel.app/Signin.html
