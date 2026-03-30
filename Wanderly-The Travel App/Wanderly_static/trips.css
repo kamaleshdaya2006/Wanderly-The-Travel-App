@@ -614,4 +614,19 @@
     color: white;
     transform: scale(1.1);
 }
+.canvas-section {
+    text-align: center;
+    padding: 40px;
+}
+
+#drawCanvas {
+    border: 2px solid #333;
+    border-radius: 10px;
+    cursor: crosshair;
+    background: #fff;
+}
+
+.canvas-controls {
+    margin-top: 10px;
+}
 
