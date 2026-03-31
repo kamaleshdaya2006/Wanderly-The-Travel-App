@@ -85,4 +85,4 @@ Wanderly_static/signin.html
 /trips → Trip planning
 
 The Website is also publicly hosted :
-Link for the website : https://wanderly-project.vercel.app/Signin.html
+Link for the website : https://kamaleshdaya2006.github.io/Wanderly-frontend-host/
